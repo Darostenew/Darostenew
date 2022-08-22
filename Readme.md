@@ -1,11 +1,11 @@
 # Hello
 My name is Daniel Steinbrueck.
 
-My skills are:
-- driving a bus
-- open locks without a key
+I was before a bus driver and I worked the last 2 years in the IT Support.
 
-I will learn the following things over the next few months:
-- html
-- css
-- javascript
+Now its time for a big change in my life. I will learn coding.
+
+This skills are on my todo list:
+-html
+-css
+-javascript
